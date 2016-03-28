@@ -1,0 +1,24 @@
+{
+    "jHipster3App": {
+        "entry" : {
+            "home": {
+                "title": "Entries",
+                "createLabel": "Создать новый Entry",
+                "createOrEditLabel": "Создать или отредактировать Entry",
+                "search": "Найти Entry"
+            },
+            "created": "Новый Entry создан с идентификатором {{ param }}",
+            "updated": "Entry обновлен с идентификатором {{ param }}",
+            "deleted": "Entry удален с идентификатором {{ param }}",
+            "delete": {
+                "question": "Вы уверены что хотите удалить Entry {{ id }}?"
+            },
+            "detail": {
+                "title": "Entry"
+            },
+            "title": "Title",
+            "content": "Content",
+            "date": "Date"
+        }
+    }
+}
